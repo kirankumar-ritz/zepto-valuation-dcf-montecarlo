@@ -1,4 +1,4 @@
-![Zepto Valuation Project Banner](banner.png)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_7xqt747xqt747xqt" src="https://github.com/user-attachments/assets/3cd739a0-4680-4688-914a-4c6ebaa0433a" />![Zepto Valuation Project Banner](Uploading Gemini_Generated_Image_7xqt747xqt747xqt.png…)
 # 💰 Zepto Valuation using Advanced DCF & Monte Carlo Simulation
 
 ## 🧭 Overview
