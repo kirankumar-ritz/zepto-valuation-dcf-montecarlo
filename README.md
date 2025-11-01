@@ -1,3 +1,4 @@
+![Zepto Valuation Project Banner](banner.png)
 # 💰 Zepto Valuation using Advanced DCF & Monte Carlo Simulation
 
 ## 🧭 Overview
